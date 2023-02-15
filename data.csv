@@ -1,0 +1,24 @@
+Study,Publication Year,Value,Model,Link to paper,Inferred_from_figure,Source_within_paper,Comment
+Van der Wijst et al. 2023,2023,1.92,WITCH,NA,TRUE,Figure 4,"Value for 50th damage quantile, with SLR adaptation"
+Van der Wijst et al. 2023,2023,1.87,REMIND,NA,TRUE,Figure 4,"Value for 50th damage quantile, with SLR adaptation"
+Van der Wijst et al. 2023,2023,1.8,MIMOSA,NA,TRUE,Figure 4,"Value for 50th damage quantile, with SLR adaptation"
+Glanemann et al. 2020,2020,2,DICE-2013 with Burke et al. (2015) damage function,https://www.nature.com/articles/s41467-019-13961-1,FALSE,"Main, Figure 2a",
+Ueckerdt et al. 2019,2019,1.95,REMIND,https://esd.copernicus.org/articles/10/741/2019/,FALSE,Main,Central value based on 1.9-2.0 optimum range given in the Main text
+Nordhaus 2018,2018,2.27,"DICE-2016R2 with ""Stern"" calibration",https://pubs.aeaweb.org/doi/pdfplus/10.1257/pol.20170046,TRUE,Figure 4,
+Nordhaus 2018,2018,3.5,DICE-2016R2,https://pubs.aeaweb.org/doi/pdfplus/10.1257/pol.20170046,FALSE,Table 4,
+Gazotti et al. 2021,2021,1.8,RICE50+,https://www.nature.com/articles/s41467-021-23613-y,FALSE,Main,
+Hänsel et al. 2020,2020,1.8,"DICE-2016R2 with several extensions (""median expert path"")",https://www.nature.com/articles/s41558-020-0833-x,FALSE,Main,
+Hänsel et al. 2020,2020,1.4,"DICE-2016R2 with several extensions (""median expert view"")",https://www.nature.com/articles/s41558-020-0833-x,FALSE,Main,
+Dietz et al. 2021,2021,2.95,"DICE-2016 with alternative climate module (""DICE-FAIR-Geoffroy"")",https://www.journals.uchicago.edu/doi/10.1086/713977,FALSE,Table 4,"Goal of study is to investigate how much realistic climate modules alter DICE-2016 results as a sensitivity check for cb-IAMs overall. It is not to calculate new ""optimal trajectories"". So it is not included in the figure."
+Dietz et al. 2021,2021,3.01,"DICE-2016 with alternative climate module (""DICE-Joos-Geoffroy"")",https://www.journals.uchicago.edu/doi/10.1086/713977,FALSE,Table 4,"Goal of study is to investigate how much realistic climate modules alter DICE-2016 results as a sensitivity check for cb-IAMs overall. It is not to calculate new ""optimal trajectories"". So it is not included in the figure."
+Dietz et al. 2021,2021,2.93,"DICE-2016 with alternative climate module (""Delay 56"")",https://www.journals.uchicago.edu/doi/10.1086/713977,FALSE,Table 4,"Goal of study is to investigate how much realistic climate modules alter DICE-2016 results as a sensitivity check for cb-IAMs overall. It is not to calculate new ""optimal trajectories"". So it is not included in the figure."
+Dietz et al. 2021,2021,2.67,"DICE-2016 with alternative climate module (""Delay 112"")",https://www.journals.uchicago.edu/doi/10.1086/713977,FALSE,Table 4,"Goal of study is to investigate how much realistic climate modules alter DICE-2016 results as a sensitivity check for cb-IAMs overall. It is not to calculate new ""optimal trajectories"". So it is not included in the figure."
+"Van der Wijst, Hof & van Vuuren 2021",2021,2.03,No model name,https://www.nature.com/articles/s41467-021-22826-5,FALSE,SI data for Figure 5,"Value for ""middle-of-the-road"" across all dimensions (SSP2, Howard et al damages, 50th perc quantile regression, 1.5% PRTP)"
+Moore & Diaz 2015,2015,1.71,gro-DICE,https://www.nature.com/articles/nclimate2481,TRUE,Figure 2,
+Cai et al. 2015,2015,2.27,DSICE with tipping point extension,https://www.pnas.org/doi/abs/10.1073/pnas.1503890112,TRUE,Figure 2,"""Average"" value"
+Cai et al. 2015,2015,2.06,DSICE with tipping point extension,https://www.pnas.org/doi/abs/10.1073/pnas.1503890112,TRUE,Figure 4,"""Average"" value"
+Lemoine & Traeger 2016,2016,2.44,Stochastic DICE-2007 version with tipping point extension,https://www.nature.com/articles/nclimate2902,TRUE,Figure 4,"""Feedback, carbon sink, and damage tipping points possible"" value"
+Botzen & van den Bergh 2012,2012,2.58,DICE with Weitzman damage function,https://www.sciencedirect.com/science/article/pii/S016517651200300X,FALSE,Table 1,"Value for 2105, not for 2100"
+Dietz & Stern 2015,2015,2.06,"DICE with growth effects, damage convexity, and stochastic climate sensitivity - K-model",https://academic.oup.com/ej/article/125/583/574/5076996,TRUE,Figure B5,"""Weitzman damages"" taken as central estimate between ""Quadratic damages"" and ""High damages"""
+Dietz & Stern 2015,2015,1.82,"DICE with growth effects, damage convexity, and stochastic climate sensitivity - TFP-model",https://academic.oup.com/ej/article/125/583/574/5076996,TRUE,Figure B6,"""Weitzman damages"" taken as central estimate between ""Quadratic damages"" and ""High damages"""
+Nordhaus 2010,2010,2.77,RICE-2010,https://www.pnas.org/doi/full/10.1073/pnas.1005985107,FALSE,"Table ST3, Figure 3",
